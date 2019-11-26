@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-26T06:06:19.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VkNK4ArN3hz2T1D0SKN-" version="12.3.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T06:15:23.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Uhejqjuq7btxfMI5la6p" version="12.3.0" type="github" pages="1">
   <diagram id="Gq8x35JS6IbWeUD07Lk0" name="第 1 页">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -81,7 +81,7 @@
         <mxCell id="wam6xkqnB42MoOIPIA5k-28" value="&lt;span style=&quot;white-space: normal&quot;&gt;根据clientId&lt;br&gt;判断ecs是否&lt;br&gt;有登录凭证&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="113" width="100" height="184" as="geometry"/>
         </mxCell>
-        <mxCell id="wam6xkqnB42MoOIPIA5k-31" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.527;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="wam6xkqnB42MoOIPIA5k-31" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.527;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.222;entryY=-0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wam6xkqnB42MoOIPIA5k-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="206.96799999999996" as="sourcePoint"/>
             <mxPoint x="370" y="207" as="targetPoint"/>
@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="wam6xkqnB42MoOIPIA5k-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="207" as="sourcePoint"/>
+            <mxPoint x="354" y="207" as="sourcePoint"/>
             <mxPoint x="91" y="207" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
@@ -175,6 +175,9 @@
             <mxPoint x="370" y="520" as="sourcePoint"/>
             <mxPoint x="370" y="191" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wam6xkqnB42MoOIPIA5k-59" value="ai记录凭证" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="355" y="195" width="30" height="58" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
